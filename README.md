@@ -1,4 +1,4 @@
-# Polkadot Rust Bootcamp - Week 2
+# Polkadot Substrate Development Bootcamp - Week 2
 Create a simple calculator using enums and pattern matching.
 
 ---
